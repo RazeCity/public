@@ -38,6 +38,7 @@ Special thank you to all these wonderful people who have made Athena Framework .
   <img src="https://contrib.rocks/image?repo=stuyk/altv-athena"/>
 </a>
 
+
 And to all this people who made RazeCity possible.
 
 <a href="https://github.com/RazeCity/public/graphs/contributors">
